@@ -1,5 +1,8 @@
 title: idoh.com
 markdown: kramdown
+exclude:
+  - CLAUDE.md
+  - doc-suggestions.md
 defaults:
   - scope:
       path: ""
