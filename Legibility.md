@@ -1,5 +1,6 @@
 ---
 title: Legibility
+permalink: /legibility.html
 ---
 
 **What legibility Is**: Legibility is the degree of understandability of a thing or system. I first learned about it from *Seeing Like a State*, where the concept was applied to states seeking to understand things in their domain (so that they could control those things). 

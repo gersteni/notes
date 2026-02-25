@@ -1,5 +1,6 @@
 ---
 title: Antiexamples of the Baconian Linear Model
+permalink: /antiexamples-of-the-baconian-linear-model.html
 ---
 
 The Baconian Linear Model says that innovations happen first by some theoretical scientific breakthrough, second by applied science, and third reduction to practice. It is not that this never works, but more that this rarely works, and the few examples of innovations arrived at first by thought seems like such an attractive thing that we tend to think that everything happens this way, when in fact they are the exception rather than the rule. 

@@ -26,10 +26,11 @@ This is the source for **notes.idoh.com**, a collection of interlinked notes hos
 ## Adding a new note
 
 1. Create a file like `My New Note.md` in the root directory.
-2. Add Jekyll front matter at the top:
+2. Add Jekyll front matter at the top with a `permalink` that is the lowercase, hyphenated version of the title:
    ```
    ---
    title: My New Note
+   permalink: /my-new-note.html
    ---
    ```
 3. Write content below the front matter. Do NOT include a `# Title` heading — the `page` layout renders the title from front matter automatically.
@@ -37,15 +38,16 @@ This is the source for **notes.idoh.com**, a collection of interlinked notes hos
 
 ## Linking between notes
 
-Use standard markdown links with `.html` extensions (not `.md`), because Jekyll converts filenames at build time:
+Use standard markdown links with the target page's `permalink` value:
 
 ```markdown
-[link text](./My Other Note.html)
+[link text](/my-other-note.html)
 ```
 
-The `./` prefix is optional. Spaces in filenames are fine.
-
-**Important:** Do not use `.md` in links. The files are `.md` on disk but served as `.html`.
+**Important:**
+- Links must use the permalink path (lowercase, hyphens, `.html`), not the source filename.
+- Every content file has a `permalink` in its front matter — always link to that value.
+- Use absolute paths starting with `/` (e.g., `/mece.html`, not `MECE.html` or `./MECE.html`).
 
 ## Layouts
 
@@ -68,6 +70,6 @@ Layout assignment is handled in `_config.yml` defaults: all files get `page` lay
 
 - **Front matter is required.** Jekyll will not process a `.md` file without `---` front matter at the top. Files without it (like `README.md`) are ignored.
 - **Title in front matter, not in body.** The layout renders `<h1>{{ page.title }}</h1>`, so a `# Title` in the markdown body would create a duplicate heading.
-- **Link extensions.** Always `.html` in links, even though source files are `.md`.
+- **Link format.** Always use the permalink path (`/lowercase-hyphens.html`), not the source filename.
 - **The `.gitignore` excludes `.png` files.** Screenshots and images are local-only and not committed.
 - **This is also an Obsidian vault.** The `.obsidian/` directory is gitignored. The notes can be edited in Obsidian, but Obsidian's `[[wikilink]]` syntax is not used — standard markdown links are used instead so Jekyll can process them.

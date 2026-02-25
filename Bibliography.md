@@ -1,5 +1,6 @@
 ---
 title: Bibliography
+permalink: /bibliography.html
 ---
 
 Nassim Nicholas Taleb, *Antifragile* (Random House 2012)

@@ -1,8 +1,9 @@
 ---
 title: How to be MECE
+permalink: /how-to-be-mece.html
 ---
 
-In order of best to worst, the ways to be [MECE](MECE.html) are: algebraically, procedurally, conceptually, segmenting, and opposite words.
+In order of best to worst, the ways to be [MECE](/mece.html) are: algebraically, procedurally, conceptually, segmenting, and opposite words.
 
 ## Algebraic
 By definition, the variables are independent and together they fully describe the whole. Some trivial examples:
