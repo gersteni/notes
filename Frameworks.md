@@ -1,12 +1,13 @@
-# Frameworks
+---
+title: Frameworks
+---
 
-
-**[MECE](MECE.md)** - a way of creating lists in a logical way. The king of frameworks.
+**[MECE](MECE.html)** - a way of creating lists in a logical way. The king of frameworks.
 
 **Barbell** - maximum paranoia, maximum optionality, nothing in the middle.
 **CIA** - a MECE for infosec: confidentiality, integrity, security.
 **Controls** - Preventive and Detective. One way to mitigate risk is to put in controls. (April 2024)
-**Describing** - can use *[via positiva](./Via Positiva.md)* / *[via negativa](./Via Negativa.md)* (what it is, what it is not), or [MECE](MECE.md). (April 2024)
+**Describing** - can use *[via positiva](./Via Positiva.html)* / *[via negativa](./Via Negativa.html)* (what it is, what it is not), or [MECE](MECE.html). (April 2024)
 **DIGS** - a format to answer interview questions, dramatize/indicate alternatives/go through what you did, summarize.
 **Iron Triangle** - for project management: time, budget, scope. 
 **Lead, follow, or get out of the way** - a way to think about critics.

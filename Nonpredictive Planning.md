@@ -1,8 +1,10 @@
-# Nonpredictive Planning
+---
+title: Nonpredictive Planning
+---
 
-“Man plans, god laughs.“
+"Man plans, god laughs.“
 
-Because of [causal opacity](./Causal Opacity.md), plans that lay out what will happen and when are doomed to failure. Most people think of plans as requiring some type of prediction, so the whole idea of making a plan without making predictions seems like an oxymoron, but it is not. There’s another way to make a plan, which is to lay out goals and how to run experiments to get you closer to your goal, which doesn’t make predictions (and is hence nonpredictive) but is still a plan.
+Because of [causal opacity](./Causal Opacity.html), plans that lay out what will happen and when are doomed to failure. Most people think of plans as requiring some type of prediction, so the whole idea of making a plan without making predictions seems like an oxymoron, but it is not. There’s another way to make a plan, which is to lay out goals and how to run experiments to get you closer to your goal, which doesn’t make predictions (and is hence nonpredictive) but is still a plan.
 ## 
 Health
 <u>Predictive Planning</u> I am worried that in twenty years I will have hypertension, so I will limit my salt intake now.

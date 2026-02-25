@@ -1,5 +1,6 @@
-# Opaque Heuristics
-
+---
+title: Opaque Heuristics
+---
 
 An opaque heuristic is some practice that we do that seems useful but we don’t understand the reason for it. A running list of examples, added when I see them:
 

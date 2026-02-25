@@ -1,6 +1,8 @@
-# Legibilities
+---
+title: Legibilities
+---
 
-Here’s a running list of [legibility](Legibility.md) examples as I find them or come up with them. 
+Here's a running list of [legibility](Legibility.html) examples as I find them or come up with them. 
 
 **State understanding of people** Each person must have a single first name, last name, birthdate, address.
 **State understanding of land** Each piece of land has to be owned (and thus held accountable by) a single person. 

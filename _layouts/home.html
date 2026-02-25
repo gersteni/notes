@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<div class="site-header">
+  <h1>idoh.com</h1>
+  <p>Notes and posts.</p>
+</div>
+
+<ul class="post-list">
+  {% assign pages_sorted = site.pages | sort: "title" %}
+  {% for p in pages_sorted %}
+    {% if p.title and p.url != page.url and p.title != "Index" %}
+    <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
