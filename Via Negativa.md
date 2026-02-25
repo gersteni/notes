@@ -12,6 +12,7 @@ As an example, let’s say you want to be happier. To be happier, you could eith
 It is so likely that removing bad things is going to lead to improvement, that as a general rule if you want to improve anything, it makes sense to start with improving through subtraction rather than addition. For a thing that you want to improve, survey all the changes that could plausibly make sense. Then, group them into changes by addition or changes by subtraction. Then set aside the list of positive changes, and do the negative changes first because they are more likely to be successful. 
 
 In the realm of politics, not to be too political, if I want to improve things then I can think of at least a couple people that I would really love to never serve public office again, and that not having these people would have a very limited downside, as compared to making some structural change to governance, which, who knows what the downstream impacts of that would be? Interestingly, the Greeks (specifically the Athenians) had just such a process, which is where the word ostracize comes from.
+
 ## As a Heuristic for Knowledge
 (Work in progress)
 
