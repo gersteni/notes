@@ -3,9 +3,11 @@ title: Epiphenomena Examples
 permalink: /epiphenomena-examples.html
 ---
 
-Examples of epiphenomena, where there may be correlation but not causation. Because of causal opacity, it is hard to make any statement of causality, so you can just pick literally anything that sounds reasonably causal and just list it as epiphenomena instead.
+An epiphenomenon is when a thing happening is strongly correlated with another thing happening but doesn't cause it.
 
-## **Things People Actually Believe**
+Because of [causal opacity](/causal-opacity.html), it is hard to distinguish genuine causes from mere correlations — which means many things we treat as causes are probably just epiphenomena.
+
+## Things People Actually Believe
 **Cholesterol** doesn’t seem to cause cardiovascular disease.
 **Salt** doesn’t seem to raise blood pressure.
 **Education** doesn’t seem to raise national wealth.

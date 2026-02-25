@@ -31,7 +31,7 @@ Sort of a roll your own MECE structure. There is usually no right MECE, but ther
 
 ## Segmenting
 
-You take some population (of anything, not just humans), and divide it up along some attribute, like age, gender, or geography. Even though it is ranked fourth worst, in a way it is actually the worst because it is both unlikely to be uninsightful and people seem to be unreasonably drawn to this MECE method over the others (probably because it requires so little thinking).
+You take some population (of anything, not just humans), and divide it up along some attribute, like age, gender, or geography. Even though it is ranked fourth (second to last), in a way it is actually the worst because it is both unlikely to be insightful and people seem to be unreasonably drawn to this MECE method over the others (probably because it requires so little thinking).
 
 ## Opposite Words
 

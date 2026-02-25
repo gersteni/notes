@@ -14,6 +14,3 @@ It is so likely that removing bad things is going to lead to improvement, that a
 
 In the realm of politics, not to be too political, if I want to improve things then I can think of at least a couple people that I would really love to never serve public office again, and that not having these people would have a very limited downside, as compared to making some structural change to governance, which, who knows what the downstream impacts of that would be? Interestingly, the Greeks (specifically the Athenians) had just such a process, which is where the word ostracize comes from.
 
-## As a Heuristic for Knowledge
-(Work in progress)
-
