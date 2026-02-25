@@ -8,26 +8,29 @@ body {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
-/* Breadcrumb */
+/* Breadcrumb title */
 
-.breadcrumb {
-  font-size: 0.8em;
-  color: #aaa;
+.breadcrumb-title {
+  font-size: 1.8em;
+  line-height: 1.2;
   margin: 0 0 0.5em;
 }
 
-.breadcrumb a {
-  color: #aaa;
+.breadcrumb-title a {
   text-decoration: none;
+  color: #aaa;
+  font-weight: normal;
 }
 
-.breadcrumb a:hover {
+.breadcrumb-title a:hover {
   color: #666;
   text-decoration: underline;
 }
 
-.breadcrumb .sep {
-  margin: 0 0.3em;
+.breadcrumb-title .sep {
+  color: #aaa;
+  font-weight: normal;
+  margin: 0 0.15em;
 }
 
 /* Headings */
